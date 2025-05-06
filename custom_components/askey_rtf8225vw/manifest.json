@@ -1,0 +1,8 @@
+{
+    "domain": "askey_rtf8225vw",
+    "name": "Askey RTF8225VW Router (Smart Wifi 6 Go Movistar Spain)",
+    "documentation": "https://github.com/damaca/ha-rtf8225vw/custom_components/askey_rtf8225vw",
+    "dependencies": [],
+    "requirements": ["lxml==5.4.0", "requests==2.32.3"],
+    "codeowners": []
+  }

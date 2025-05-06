@@ -1,0 +1,6 @@
+{
+  "name": "Askey RTF8225VW Router",
+  "hacs": "0.1.0",
+  "homeassistant": "2024.6.0",
+  "render_readme": true
+}
